@@ -8,4 +8,4 @@ copy of the files from GitHub and put them in a new folder
 install packages using - "npm install"
 
 ### Start the App
-use the command "npm run dev"
+use the command "npm run start"
