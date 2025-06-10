@@ -1,0 +1,13 @@
+@use "@carbon/react";
+@use '@carbon/react/scss/breakpoint' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/styles/scss/themes';
+@use '@carbon/react/scss/theme';
+
+.appContainer{
+    margin-top: 5rem;
+}
+
+.mb02{    
+    margin-bottom: 2rem;
+}
